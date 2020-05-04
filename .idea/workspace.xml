@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2434ddd-c6c2-4d79-af49-f8af137be061" name="Default Changelist" comment="" />
+    <list default="true" id="c4502e69-5e73-422a-a40c-cdf88e54bab8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +10,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1W6QNLYQDgNMhpX1D6pIVINaFBY" />
+  <component name="ProjectId" id="1YbyMtUEmumQIq6mj45qhgSO9KH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,42 +23,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/demos/threadPool" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/cakes/threadPool" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.demos.threadPool" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\works\idea_works\JaveDemos\src\com\cakes\threadPool" />
+      <recent name="E:\works\idea_works\JaveDemos\src\com\cakes\threadPool\test2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\works\idea_works\JaveDemos\src\com\demos\threadPool" />
-      <recent name="E:\works\idea_works\JaveDemos\src\com\demos\files" />
-      <recent name="E:\works\idea_works\JaveDemos\DemoFile\src\com\cakes\files" />
+      <recent name="E:\works\idea_works\JaveDemos\src\com\cakes\threadPool" />
+      <recent name="E:\works\idea_works\JaveDemos\src\com\cakes\files" />
+      <recent name="E:\works\idea_works\JaveDemos\src\com\cakes" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threadPool.TestThreadPool" />
-      <module name="DemoThreadPool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.threadPool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demos.threadPool.TestThreadPool" />
+      <option name="MAIN_CLASS_NAME" value="com.cakes.threadPool.test1.TestThreadPool" />
       <module name="JaveDemos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demos.threadPool.*" />
+          <option name="PATTERN" value="com.cakes.threadPool.test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,79 +56,50 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestThreadPool" />
-        <item itemvalue="Application.TestThreadPool" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
-    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR,SHOW_INTERFACES,SHOW_PROPERTIES,SHOW_ANONYMOUS,SHOW_INHERITED,SHOW_LAMBDA" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2434ddd-c6c2-4d79-af49-f8af137be061" name="Default Changelist" comment="" />
-      <created>1578467523087</created>
+      <changelist id="c4502e69-5e73-422a-a40c-cdf88e54bab8" name="Default Changelist" comment="" />
+      <created>1583225543584</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578467523087</updated>
+      <updated>1583225543584</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="95" key="#Project_Structure" timestamp="1578467696635">
+    <state x="452" y="95" key="#Project_Structure" timestamp="1583225569910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="95" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578467696635" />
-    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583224075696">
+    <state x="452" y="95" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583225569910" />
+    <state x="721" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1583566425987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583224075696" />
-    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1583217972551">
+    <state x="721" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583566425987" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1583566870224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583217972551" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1582960135844">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583566870224" />
+    <state width="1867" height="516" key="GridCell.Tab.0.bottom" timestamp="1583387106760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582960135844" />
-    <state width="1867" height="395" key="GridCell.Tab.0.bottom" timestamp="1583224101005">
+    <state width="1867" height="516" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583387106760" />
+    <state width="1867" height="516" key="GridCell.Tab.0.center" timestamp="1583387106759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583224101005" />
-    <state width="1867" height="395" key="GridCell.Tab.0.center" timestamp="1583224101005">
+    <state width="1867" height="516" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583387106759" />
+    <state width="1867" height="516" key="GridCell.Tab.0.left" timestamp="1583387106759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="395" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583224101005" />
-    <state width="1867" height="395" key="GridCell.Tab.0.left" timestamp="1583224101005">
+    <state width="1867" height="516" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583387106759" />
+    <state width="1867" height="516" key="GridCell.Tab.0.right" timestamp="1583387106760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="395" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583224101005" />
-    <state width="1867" height="395" key="GridCell.Tab.0.right" timestamp="1583224101005">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1867" height="395" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583224101005" />
-    <state x="345" y="0" key="SettingsEditor" timestamp="1583223998988">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583223998988" />
-    <state x="271" y="51" key="new project wizard" timestamp="1578469732078">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="271" y="51" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578469732078" />
+    <state width="1867" height="516" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583387106760" />
   </component>
 </project>
